@@ -1,0 +1,4 @@
+pandas_venv/
+.ipynb_checkpoints/
+data/
+stack-overflow-developer-survey-2019.zip
